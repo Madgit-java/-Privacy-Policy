@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>
 History quiz > Privacy Policy
 Aboian built the History quiz app as a Free app. This SERVICE is provided by Aboian at no cost and is intended for use as is.
 
@@ -58,3 +62,7 @@ This policy is effective as of 2021-04-26
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at history.quiz.ab@gmail.com.
+</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
