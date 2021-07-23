@@ -33,7 +33,6 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 Service Providers
 
-
 I may employ third-party companies and individuals due to the following reasons:
 
 To facilitate our Service;
