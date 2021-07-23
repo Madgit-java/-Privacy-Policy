@@ -102,6 +102,7 @@ Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at history.quiz.ab@gmail.com.
 
 </p>
+
 </h1>
 <p>I'm hosted with GitHub Pages.</p>
 </body>
